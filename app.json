@@ -1,6 +1,6 @@
 {
-	"name": "Raganork",
-	"description": "Multi-functional WhatsApp bot project",
+	"name": "☬K༙྇I༙྇N༙྇G༙྇ᴼᶠ𝙹𝙾𝙲𝙺𝙴𝚁〠",
+	"description": " WhatsApp bot ☬K༙྇I༙྇N༙྇G༙྇ᴼᶠ𝙹𝙾𝙲𝙺𝙴𝚁〠",
 	"keywords": [
 		"whatsapp",
 		"bot"
@@ -29,52 +29,52 @@
             "value":"true"
         },
        "HEROKU_API_KEY": {
-            "description": "For updating bot and setting vars remotely",
+            "description": "☬K༙྇I༙྇N༙྇G༙྇ᴼᶠ𝙹𝙾𝙲𝙺𝙴𝚁〠",
             "required": true,
-            "value":""
+            "value":"☬K༙྇I༙྇N༙྇G༙྇ᴼᶠ𝙹𝙾𝙲𝙺𝙴𝚁〠"
         },
         "HEROKU_APP_NAME": {
-            "description": "Exact name which you gave at the top",
+            "description": "☬K༙྇I༙྇N༙྇G༙྇ᴼᶠ𝙹𝙾𝙲𝙺𝙴𝚁〠",
             "required": true,
-            "value":""
+            "value":"☬K༙྇I༙྇N༙྇G༙྇ᴼᶠ𝙹𝙾𝙲𝙺𝙴𝚁〠"
         },
         "STICKER_DATA": {
-            "description": "Name of stickers created using bot. Can also split using ;",
+            "description": "☬K༙྇I༙྇N༙྇G༙྇ᴼᶠ𝙹𝙾𝙲𝙺𝙴𝚁〠 ;",
             "required": true,
-            "value":"ʀᴀɢᷨᴀͦɴͭᴏʀᴋ"
+            "value":"☬K༙྇I༙྇N༙྇G༙྇ᴼᶠ𝙹𝙾𝙲𝙺𝙴𝚁〠"
         },
         "CHATBOT": {
-            "description": "AI chatbot",
+            "description": "☬K༙྇I༙྇N༙྇G༙྇ᴼᶠ𝙹𝙾𝙲𝙺𝙴𝚁〠",
             "required": true,
             "value":"off"
         },
         "BOT_NAME": {
-            "description": "Name of AI chatbot",
+            "description": "☬K༙྇I༙྇N༙྇G༙྇ᴼᶠ𝙹𝙾𝙲𝙺𝙴𝚁〠",
             "required": true,
-            "value":"Raganork"
+            "value":"☬K༙྇I༙྇N༙྇G༙྇ᴼᶠ𝙹𝙾𝙲𝙺𝙴𝚁〠"
         },
         "AUDIO_DATA": {
             "description": "Name of audio (take) name;name;image(url)",
             "required": true,
-            "value":"ʀᴀɢᷨᴀͦɴͭᴏʀᴋ;ʀᴀɢᷨᴀͦɴͭᴏʀᴋ;https://2.img-dpreview.com/files/p/E~C1000x0S4000x4000T1200x1200~articles/3925134721/0266554465.jpeg"
+            "value":"☬K༙྇I༙྇N༙྇G༙྇ᴼᶠ𝙹𝙾𝙲𝙺𝙴𝚁〠;☬K༙྇I༙྇N༙྇G༙྇ᴼᶠ𝙹𝙾𝙲𝙺𝙴𝚁〠;https://telegra.ph/file/cc55f88d161978570f55e.jpg"
         },
         "MODE": {
             "description": "Private or public",
             "required": true,
-            "value":"private"
+            "value":"public"
         },
         "SUDO": {
             "description": "These numbers can control your bot. seperate with commas",
             "required": false,
-            "value":"919074309534"
+            "value":"94767973534"
         },
         "ALIVE": {
-            "description": "Alive message {image/link}, {sender} can also be used",
-            "required": false,
+            "description": "Alive message {image/link}, {sender} hello i am now online ☬K༙྇I༙྇N༙྇G༙྇ᴼᶠ𝙹𝙾𝙲𝙺𝙴𝚁〠",
+            "required": true,
             "value":"{pp} Active since {uptime}\n User:{sender}"
         },
        "SESSION": {
-            "description": "Your MD session",
+            "description": "☬K༙྇I༙྇N༙྇G༙྇ᴼᶠ𝙹𝙾𝙲𝙺𝙴𝚁〠",
             "required": true
              
         }

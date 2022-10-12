@@ -31,7 +31,8 @@
        "HEROKU_API_KEY": {
             "description": "☬K༙྇I༙྇N༙྇G༙྇ᴼᶠ𝙹𝙾𝙲𝙺𝙴𝚁〠",
             "required": true,
-            "value":"☬K༙྇I༙྇N༙྇G༙྇ᴼᶠ𝙹𝙾𝙲𝙺𝙴𝚁〠"
+            "value":"
+b60bb5fa-1ea1-4f6c-a5fb-948538eeb2c1"
         },
         "HEROKU_APP_NAME": {
             "description": "☬K༙྇I༙྇N༙྇G༙྇ᴼᶠ𝙹𝙾𝙲𝙺𝙴𝚁〠",
@@ -74,7 +75,7 @@
             "value":"{pp} Active since {uptime}\n User:{sender}"
         },
        "SESSION": {
-            "description": "☬K༙྇I༙྇N༙྇G༙྇ᴼᶠ𝙹𝙾𝙲𝙺𝙴𝚁〠",
+            "description": "Raganork~cbbe8b54cc048b9fb669fd203c110490:31634564323666587132413d",
             "required": true
              
         }
